@@ -15,7 +15,7 @@
 
 <!-- - 💻 &nbsp; -->
 
-- <a href="https://github.com/MinhNguyenLe/app-review-reactjs">Web review school_version 1</a>
+- Web review school<a href="https://github.com/MinhNguyenLe/app-review-reactjs">Version 1</a>\_<a href="https://github.com/MinhNguyenLe/AppReviewSchool_useMERN">Version 2</a>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -32,10 +32,15 @@
 
 <!-- - 🌐 &nbsp; -->
 
-- Learning
+- Pure HTML-CSS-JQuery<a href="https://github.com/MinhNguyenLe/app-review-reactjs">Booking plane ticket</a>
 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
 
+<!-- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
