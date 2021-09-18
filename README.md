@@ -13,9 +13,9 @@
 
 - Front-End Developers(Fresher)(6 months)<br><a href="https://www.gogojungle.co.jp/">GogoJungle</a>
 
-![SASS](https://img.shields.io/badge/-SASS-e535ab?style=flat&logo=sass)
+![SASS](https://img.shields.io/badge/-SASS-e535ab?style=flat&logo=sass&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![NuxtJS](https://img.shields.io/badge/-NuxtJS-F1502F?style=flat&logo=nuxt.js)
+![NuxtJS](https://img.shields.io/badge/-NuxtJS-F1502F?style=flat&logo=nuxt.js&logoColor=white)
 
 - Vietnamese-Australian English training (building) -> <a href="https://github.com/MinhNguyenLe/TrungTamTiengAnh-NextJS">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/MariaDB_TrungTamTiengAnh">Server</a>
 
