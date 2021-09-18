@@ -3,13 +3,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently focusing Fullstack Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- 🔭 &nbsp; I’m currently focusing Best Software Engineer.
+<!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. -->
+- 🎓 &nbsp; Studying Software Engineer at UIT.
+  <!-- - 💼 &nbsp; Now I can work as front-end web developer. -->
+  <!-- - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence . -->
+- ✍️ &nbsp; Playing badminton-basketball-football-tennis... all sports.
+<!-- - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -24,7 +24,7 @@
 
 <!-- - 🌐 &nbsp; -->
 
-Learning
+- Learning
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
