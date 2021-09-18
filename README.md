@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Lee. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="360"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -11,7 +11,7 @@
 
 - Freelancer (1 job)(Working)<br>
 
-- Front-End Developers(Fresher)(6 months)<br><a href="https://www.gogojungle.co.jp/">GogoJungle</a>
+- Front-End Developers(Fresher)(6 months at <a href="https://www.gogojungle.co.jp/">GogoJungle</a>
 
 ![SASS](https://img.shields.io/badge/-SASS-e535ab?style=flat&logo=sass&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
