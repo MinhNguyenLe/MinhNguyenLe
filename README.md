@@ -37,14 +37,14 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![ChromeExtension](https://img.shields.io/badge/-Chrome%20Extension-333333?style=flat&logo=chrome)
+![ChromeExtension](https://img.shields.io/badge/-Chrome%20Extension-e535ab?style=flat&logo=chrome)
 
 - Review School -> <a href="https://github.com/MinhNguyenLe/app-review-reactjs">Version 1</a>\_\_<a href="https://github.com/MinhNguyenLe/AppReviewSchool_useMERN">Version 2</a>
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express)
 
