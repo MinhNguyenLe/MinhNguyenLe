@@ -1,11 +1,11 @@
-<h2> Hey there! I'm MinhLee(MinhNguyenLe). <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> Hey there! I'm Lee. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently focusing Best Software Engineer.
+- 🔭 &nbsp; Focusing learning Software Engineer.
 - 🎓 &nbsp; Studying Software Engineer at <a href="https://www.uit.edu.vn/">UIT</a>.
-- ✍️ &nbsp; HOBBY : Play sport.
+- ✍️ &nbsp; HOBBY : Play sports.
 
 <h3> 🛠 &nbsp;My Experience</h3>
 
