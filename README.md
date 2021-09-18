@@ -4,23 +4,19 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently focusing Best Software Engineer.
-<!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. -->
-- 🎓 &nbsp; Studying Software Engineer at UIT.
-  <!-- - 💼 &nbsp; Now I can work as front-end web developer. -->
-  <!-- - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence . -->
-- ✍️ &nbsp; Playing badminton-basketball-football-tennis... all sports.
-<!-- - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. -->
+- 🎓 &nbsp; Studying Software Engineer at <a href="https://www.uit.edu.vn/">UIT</a>.
+- ✍️ &nbsp; HOBBY : Play sport.
 
 <h3> 🛠 &nbsp;My Experience</h3>
 
 - Freelancer (1 job)(Working)<br>
 
-- Front-End Developers(Fresher)(6 months)<br><a href="https://www.gogojungle.co.jp/">Gogo Jungle</a>
+- Front-End Developers(Fresher)(6 months)<br><a href="https://www.gogojungle.co.jp/">GogoJungle</a>
 
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
 ![NuxtJS](https://img.shields.io/badge/-NuxtJS-333333?style=flat&logo=nuxt.js)
 
-- Vietnamese-Australian English training (Web)(building)<br><a href="https://github.com/MinhNguyenLe/TrungTamTiengAnh-NextJS">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/MariaDB_TrungTamTiengAnh">Server</a>
+- Vietnamese-Australian English training (Web)(building) -> ><a href="https://github.com/MinhNguyenLe/TrungTamTiengAnh-NextJS">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/MariaDB_TrungTamTiengAnh">Server</a>
 
 ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
@@ -62,15 +58,6 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3) 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
-
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
