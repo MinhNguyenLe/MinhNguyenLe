@@ -5,26 +5,27 @@
 
 - 🔭 &nbsp; Focusing learning Software Engineer.
 - 🎓 &nbsp; Studying Software Engineer at <a href="https://www.uit.edu.vn/">UIT</a>.
-- ✍️ &nbsp; HOBBY : Play sports.
+- ✍️ &nbsp; Hobby : Play sports.
 
 <h3> 🛠 &nbsp;My Experience</h3>
 
-- Freelancer (1 job)(Working)<br>
+- Freelancer (1 job)(be working)<br>
 
-- Front-End Developers(Fresher)(6 months at <a href="https://www.gogojungle.co.jp/">GogoJungle</a>
+- Front-End Developers(Fresher-Fulltime)(6 months) at <a href="https://www.gogojungle.co.jp/">GogoJungle</a>
 
 ![SASS](https://img.shields.io/badge/-SASS-e535ab?style=flat&logo=sass&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![NuxtJS](https://img.shields.io/badge/-NuxtJS-F1502F?style=flat&logo=nuxt.js&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-- Vietnamese-Australian English training (building) -> <a href="https://github.com/MinhNguyenLe/TrungTamTiengAnh-NextJS">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/MariaDB_TrungTamTiengAnh">Server</a>
+- Vietnamese-Australian English training (be building) -> <a href="https://github.com/MinhNguyenLe/TrungTamTiengAnh-NextJS">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/MariaDB_TrungTamTiengAnh">Server</a>
 
 ![NextJS](https://img.shields.io/badge/-NextJS-F1502F?style=flat&logo=next.js)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-4DB33D?style=flat&logo=mariadb)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express)
 
-- Hosting Service (building) -> <a href="https://github.com/MinhNguyenLe/Web-HostingService-TypeScript">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/Web-HostingService-GraphQL">Server</a>
+- Hosting Service (be building) -> <a href="https://github.com/MinhNguyenLe/Web-HostingService-TypeScript">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/Web-HostingService-GraphQL">Server</a>
 
 ![MaterialUI](https://img.shields.io/badge/-Material%20UI-e535ab?style=flat&logo=material-ui)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
