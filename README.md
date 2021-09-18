@@ -13,9 +13,28 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-<!-- - 💻 &nbsp; -->
+- Vietnamese-Australian English training (Web)<br><a href="https://github.com/MinhNguyenLe/TrungTamTiengAnh-NextJS">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/MariaDB_TrungTamTiengAnh">Server</a>
 
-- Web review school<br><a href="https://github.com/MinhNguyenLe/app-review-reactjs">Version 1</a>\_\_<a href="https://github.com/MinhNguyenLe/AppReviewSchool_useMERN">Version 2</a>
+![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
+![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express)
+
+- Hosting Service (Web)<br><a href="https://github.com/MinhNguyenLe/Web-HostingService-TypeScript">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/Web-HostingService-GraphQL">Server</a>
+
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express)
+
+- Blocking social media when working-learning (Chrome-extension)<br><a href="https://github.com/MinhNguyenLe/lasDog-Pure-version">Github(Pure Version)</a><br><a href="https://github.com/MinhNguyenLe/lasDog-React-Typescript-version">Github(React-Typescript Version)</a><br><a href="https://chrome.google.com/webstore/detail/lasdog/hinbclillmmbhhbjckojodnhgffmmcii?utm_source=www.extension.today">Use in Chrome Store</a>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![ChromeExtension](https://img.shields.io/badge/-Chrome%20Extension-333333?style=flat&logo=chrome)
+
+- Review School (Web)<br><a href="https://github.com/MinhNguyenLe/app-review-reactjs">Version 1</a>\_\_<a href="https://github.com/MinhNguyenLe/AppReviewSchool_useMERN">Version 2</a>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -23,20 +42,12 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-- Pure HTML-CSS-JQuery(router : react-router)<br><a href="https://github.com/MinhNguyenLe/app-review-reactjs">Booking plane ticket</a>
+- Booking plane ticket (Web)<br><a href="https://github.com/MinhNguyenLe/app-review-reactjs">Github(MonoRepo)</a>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
 ![React-router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=react)
-
-- Pure HTML-CSS-JQuery<br><a href="https://github.com/MinhNguyenLe/app-review-reactjs">Booking plane ticket</a>
-
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
 
   <!-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
