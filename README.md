@@ -13,22 +13,23 @@
 
 - Front-End Developers(Fresher)(6 months)<br><a href="https://www.gogojungle.co.jp/">GogoJungle</a>
 
+![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![NuxtJS](https://img.shields.io/badge/-NuxtJS-333333?style=flat&logo=nuxt.js)
 
 - Vietnamese-Australian English training (building) -> <a href="https://github.com/MinhNguyenLe/TrungTamTiengAnh-NextJS">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/MariaDB_TrungTamTiengAnh">Server</a>
 
 ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
-![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
+![MariaDB](https://img.shields.io/badge/-MariaDB-4DB33D?style=flat&logo=mariadb)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express)
 
 - Hosting Service (building) -> <a href="https://github.com/MinhNguyenLe/Web-HostingService-TypeScript">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/Web-HostingService-GraphQL">Server</a>
 
+![MaterialUI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![MaterialUI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-4DB33D?style=flat&logo=graphql)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express)
 
@@ -40,11 +41,12 @@
 
 - Review School -> <a href="https://github.com/MinhNguyenLe/app-review-reactjs">Version 1</a>\_\_<a href="https://github.com/MinhNguyenLe/AppReviewSchool_useMERN">Version 2</a>
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 - Booking plane ticket -> <a href="https://github.com/MinhNguyenLe/app-review-reactjs">Github(MonoRepo)</a>
 
