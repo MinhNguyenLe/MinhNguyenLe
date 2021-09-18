@@ -11,19 +11,27 @@
 - ✍️ &nbsp; Playing badminton-basketball-football-tennis... all sports.
 <!-- - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. -->
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;My Experience</h3>
 
-- Vietnamese-Australian English training (Web)<br><a href="https://github.com/MinhNguyenLe/TrungTamTiengAnh-NextJS">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/MariaDB_TrungTamTiengAnh">Server</a>
+- Freelancer (1 job)(Working)<br>
+
+- Front-End Developers(Fresher)(6 months)<br><a href="https://www.gogojungle.co.jp/">Gogo Jungle</a>
+
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
+![NuxtJS](https://img.shields.io/badge/-NuxtJS-333333?style=flat&logo=nuxt.js)
+
+- Vietnamese-Australian English training (Web)(building)<br><a href="https://github.com/MinhNguyenLe/TrungTamTiengAnh-NextJS">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/MariaDB_TrungTamTiengAnh">Server</a>
 
 ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express)
 
-- Hosting Service (Web)<br><a href="https://github.com/MinhNguyenLe/Web-HostingService-TypeScript">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/Web-HostingService-GraphQL">Server</a>
+- Hosting Service (Web)(building)<br><a href="https://github.com/MinhNguyenLe/Web-HostingService-TypeScript">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/Web-HostingService-GraphQL">Server</a>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![MaterialUI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express)
