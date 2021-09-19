@@ -53,7 +53,7 @@
 
 - Booking plane ticket
 
-<a href="https://github.com/MinhNguyenLe/app-review-reactjs">Github(MonoRepo)</a> ->
+<a href="https://github.com/MinhNguyenLe/app-review-reactjs">Github(MonoRepo)</a>  
 <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"></img>
 
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) -->
