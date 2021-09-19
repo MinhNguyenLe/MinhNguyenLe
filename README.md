@@ -55,12 +55,9 @@
 
 <a href="https://github.com/MinhNguyenLe/app-review-reactjs">Github(MonoRepo)</a>  
 <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"></img>
-
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) -->
-
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
-![React-router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=react)
+<img src="https://imhttps://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"></img>
+<img src="https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery"></img>
+<img src="https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=react"></img>
 
   <!-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
