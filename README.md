@@ -20,7 +20,7 @@
 
 - Vietnamese-Australian English training (be building) -> <a href="https://github.com/MinhNguyenLe/TrungTamTiengAnh-NextJS">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/MariaDB_TrungTamTiengAnh">Server</a>
 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-e535ab?style=flat&logo=tailwindcss)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-e535ab?style=flat&logo=tailwindcss&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-NextJS-F1502F?style=flat&logo=next.js)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-4DB33D?style=flat&logo=mariadb)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
