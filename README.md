@@ -22,9 +22,9 @@
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-e535ab?style=flat&logo=tailwindcss&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-NextJS-F1502F?style=flat&logo=next.js)
-![MariaDB](https://img.shields.io/badge/-MariaDB-4DB33D?style=flat&logo=mariadb)
+![Postgres](https://img.shields.io/badge/-Postgres-4DB33D?style=flat&logo=postgresql)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express)
+![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)
 
 - Hosting Service (be building) -> <a href="https://github.com/MinhNguyenLe/Web-HostingService-TypeScript">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/Web-HostingService-GraphQL">Server</a>
 
