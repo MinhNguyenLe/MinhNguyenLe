@@ -9,9 +9,11 @@
 
 <h3> 🛠 &nbsp;My Experience</h3>
 
-- Freelancer (1 job)(be working)<br>
+- Freelancer (5/2021 -> present)<br>
 
-- Front-End Developers(Fresher-Fulltime)(6 months) at <a href="https://www.gogojungle.co.jp/">GogoJungle</a>
+- Front-End Developers(Fresher-Fulltime)(1/2021 -> 9/2021) at <a href="https://www.gogojungle.co.jp/">GogoJungle</a>
+
+- Front-End Developers(Fresher-Fulltime)(11/2021 -> present) at <a href="https://dronehub.mismart.ai/">Mismart</a>
 
 ![SASS](https://img.shields.io/badge/-SASS-e535ab?style=flat&logo=sass&logoColor=white)
 ![NuxtJS](https://img.shields.io/badge/-NuxtJS-F1502F?style=flat&logo=nuxt.js&logoColor=white)
@@ -26,7 +28,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)
 
-- Hosting Service (be building) -> <a href="https://github.com/MinhNguyenLe/Web-HostingService-TypeScript">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/Web-HostingService-GraphQL">Server</a>
+- Hosting Service -> <a href="https://github.com/MinhNguyenLe/Web-HostingService-TypeScript">Client</a>\_\_<a href="https://github.com/MinhNguyenLe/Web-HostingService-GraphQL">Server</a>
 
 ![MaterialUI](https://img.shields.io/badge/-Material%20UI-e535ab?style=flat&logo=material-ui)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
