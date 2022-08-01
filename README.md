@@ -9,11 +9,11 @@
 
 <h3> 🛠 &nbsp;My Experience</h3>
 
-- Freelancer (5/2021 -> present)<br>
+- Freelancer<br>
 
-- Front-End Developer (1/2021 -> 8/2021) at <a href="https://www.gogojungle.co.jp/">GogoJungle</a>
+- Front-End Developer (1/2020 -> 9/2020) at <a href="https://www.gogojungle.co.jp/">GogoJungle</a>
 
-- Front-End Developer (9/2021 -> 3/2021) at <a href="https://dronehub.mismart.ai/">Mismart</a>
+- Front-End Developer (11/2020 -> 8/2021) at <a href="https://dronehub.mismart.ai/">Mismart</a>
 
 ![SASS](https://img.shields.io/badge/-SASS-e535ab?style=flat&logo=sass&logoColor=white)
 ![NuxtJS](https://img.shields.io/badge/-NuxtJS-F1502F?style=flat&logo=nuxt.js&logoColor=white)
