@@ -13,7 +13,7 @@
 
 - Front-End Developer (1/2021 -> 9/2021) at <a href="https://www.gogojungle.co.jp/">GogoJungle</a>
 
-- Front-End Developer (11/2021 -> present) at <a href="https://dronehub.mismart.ai/">Mismart</a>
+- Front-End Developer (11/2021 -> 3/2021) at <a href="https://dronehub.mismart.ai/">Mismart</a>
 
 ![SASS](https://img.shields.io/badge/-SASS-e535ab?style=flat&logo=sass&logoColor=white)
 ![NuxtJS](https://img.shields.io/badge/-NuxtJS-F1502F?style=flat&logo=nuxt.js&logoColor=white)
